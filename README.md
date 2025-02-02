@@ -78,4 +78,4 @@ Contains command implementations for executing SQL-like statements.
 ### **5. Storage (`Storage/`)**
 This directory handles data persistence.
 
-- **`FileStorage.cs`** → Saves and loads the database from a JSON file (`databas
+- **`FileStorage.cs`** →  Saves and loads the database from a JSON file (database.json) to ensure persistence across sessions.
