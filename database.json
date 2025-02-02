@@ -1,0 +1,23 @@
+{
+  "Tables": [
+    {
+      "Name": "mytable",
+      "Columns": [
+        {
+          "Name": "id",
+          "Type": "INT"
+        },
+        {
+          "Name": "name",
+          "Type": "TEXT"
+        }
+      ],
+      "Rows": [
+        {
+          "Id": 1,
+          "Name": "JohnDoe"
+        }
+      ]
+    }
+  ]
+}
