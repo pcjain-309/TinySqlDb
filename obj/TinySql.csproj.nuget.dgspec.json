@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/root/DEV/TerminalSqlCli/TinySql.csproj": {}
+    "/root/DEV/TinySqlDb/TinySql.csproj": {}
   },
   "projects": {
-    "/root/DEV/TerminalSqlCli/TinySql.csproj": {
+    "/root/DEV/TinySqlDb/TinySql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/root/DEV/TerminalSqlCli/TinySql.csproj",
+        "projectUniqueName": "/root/DEV/TinySqlDb/TinySql.csproj",
         "projectName": "TinySql",
-        "projectPath": "/root/DEV/TerminalSqlCli/TinySql.csproj",
+        "projectPath": "/root/DEV/TinySqlDb/TinySql.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/root/DEV/TerminalSqlCli/obj/",
+        "outputPath": "/root/DEV/TinySqlDb/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"

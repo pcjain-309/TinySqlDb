@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vrDyhAwcHf8=",
+  "dgSpecHash": "0prhv68DEXU=",
   "success": true,
-  "projectFilePath": "/root/DEV/TerminalSqlCli/TinySql.csproj",
+  "projectFilePath": "/root/DEV/TinySqlDb/TinySql.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
